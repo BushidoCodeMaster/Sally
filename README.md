@@ -1,5 +1,7 @@
 # Sally - Simple Auto Illustrator
 
+https://github.com/BushidoCodeMaster/Sally/tree/main/dist/SimpleAutoillustrator
+
 ## Overview
 Sally automates specific tasks with Excel files and integrates them with Adobe Illustrator. This tool enables users to insert a new column, generate QR codes with customizable data, and create executable JSX scripts for Adobe Illustrator.
 
