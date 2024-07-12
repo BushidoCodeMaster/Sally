@@ -1,5 +1,6 @@
 # Sally - Simple Auto Illustrator
 
+If you are a WinOS user - Download the exe with the internal folde at 
 https://github.com/BushidoCodeMaster/Sally/tree/main/dist/SimpleAutoillustrator
 
 ## Overview
